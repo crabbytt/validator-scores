@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.env
+.venv/
+venv/
+*.log
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
